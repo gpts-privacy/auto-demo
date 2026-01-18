@@ -13,17 +13,12 @@ This project was presented as part of a **GeoAI training and demonstration sessi
 
 ## 🎥 Demo Video
 
-The following video demonstrates the **GeoLocator system** and explains how ChatGPT can be used as a co-pilot for building GeoAI applications.
+🔗 **Video Link:** https://youtu.be/MpUugz9WdpM
 
-### ▶️ GeoLocator Demo: Developing GeoAI Tools through ChatGPT  
-🔗 **Video Link:**  
-https://youtu.be/MpUugz9WdpM?si=Ro3Q8e1hAYE000Gq
+**Context:**  
+*Symposium on Spatiotemporal Data Science – Pre-symposium Training Workshop*  
+*Washington, DC · July 22, 2024*
 
-> **Context:**  
-> *Symposium on Spatiotemporal Data Science – Pre-symposium Training Workshop*  
-> *Washington, DC · July 22, 2024*
+🌐 **Demo Video Page (GitHub Pages):** https://gpts-privacy.github.io/auto-demo/
 
----
-
-🔗 Demo Video Page: https://rayford295.github.io/REPO_NAME/
 
